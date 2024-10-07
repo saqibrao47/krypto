@@ -1,7 +1,4 @@
-Hi there! 👋 I'm Saqib Rao
-Welcome to my GitHub profile! I'm a front-end developer with a passion for creating visually stunning and user-centric web interfaces. My expertise lies in combining creativity with cutting-edge technology to deliver pixel-perfect designs and seamless user experiences.
-
-🚀 About Me
+Hello
 💻 I specialize in responsive web design and user experience optimization.
 🌐 I have a solid background in Shopify store and theme development.
 🎨 My work emphasizes pixel-perfect design and enhanced user engagement.
